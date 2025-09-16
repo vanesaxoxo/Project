@@ -4,8 +4,7 @@ Software Engineering 2
 # Sample Project
 
 ## Introduction
-This is a simple **README.md** file created to demonstrate Markdown formatting on GitHub.  
-It shows how to write _paragraphs_, use bold and italic text, and structure content with different elements.
+This is an example for homework 3. 
 
 ## Features
 Here are some of the formatting features included in this file:
@@ -17,7 +16,7 @@ Here are some of the formatting features included in this file:
 - Superscript example: E=mc<sup>2</sup>
 
 ## Quoting
-> Markdown makes documentation simple and powerful.
+> Quotes: 
 
 Some basic Git commands are:
 ```
@@ -25,6 +24,11 @@ git status
 git add
 git commit
 ```
+## Links and Images
+Here is a [link](https://tarleton.edu).  
+
+And here is an example image:  
+![Description of the image.](https://google.com/logo.svg)
 
 ## Lists
 
@@ -38,8 +42,4 @@ git commit
 1. Two
 1. Three
 
-## Links and Images
-Here is a [link](https://tarleton.edu).  
 
-And here is an example image:  
-![Description of the image.](https://google.com/logo.svg)
