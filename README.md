@@ -9,11 +9,11 @@ This is an example for homework 3.
 ## Features
 Here are some of the formatting features included in this file:
 
-- **Bold text** to highlight important points.
-- _Italic text_ for emphasis.
-- ***Bold and italic*** when you really need attention.
-- Subscript example: H<sub>2</sub>O
-- Superscript example: E=mc<sup>2</sup>
+- **Bold text**.
+- _Italic text_.
+- ***Bold and italic***.
+- Subscript Example: H<sub>2</sub>O
+- Superscript Example: E=mc<sup>2</sup>
 
 ## Quoting
 > Quotes: 
